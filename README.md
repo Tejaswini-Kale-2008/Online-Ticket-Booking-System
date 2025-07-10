@@ -29,6 +29,13 @@ Multithreading for handling each booking
 OOPS concepts
 
 
+🌟 Dependencies
+<dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.6.0</version>
+</dependency>
+
  🗃️ Database Setup (PostgreSQL)
 
 1. Open your PostgreSQL terminal or pgAdmin  
