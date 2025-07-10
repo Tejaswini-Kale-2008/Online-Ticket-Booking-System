@@ -12,9 +12,15 @@ public class Ticket {
         this.price = price;
     }
 
-    public String getName() { return name; }
-    public String getDestination() { return destination; }
-    public double getPrice() { return price; }
+    public String getName() 
+    { 
+        return name; }
+    public String getDestination() 
+    { 
+        return destination; }
+    public double getPrice() 
+    { 
+        return price; }
 
     @Override
     public String toString() {
