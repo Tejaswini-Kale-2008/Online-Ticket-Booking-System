@@ -1,12 +1,13 @@
 package ticketbooking;
 
 public class Ticket {
-    private int id;
+    
     private String name;
     private String destination;
     private double price;
 
     public Ticket(String name, String destination, double price) {
+       
         this.name = name;
         this.destination = destination;
         this.price = price;
