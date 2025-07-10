@@ -6,7 +6,7 @@ import ticketbooking.DatabaseConnection;
 public class TicketDAO {
     public void saveTicket(Ticket ticket) {
         String sql = "INSERT INTO tickets (name, destination, price) VALUES (?, ?, ?)";
-        try (Connection conn = DataBaseConnection.getConnection();
+        try (Connection conn = DatabaseConnection.getConnection();
              PreparedStatement stmt = conn.prepareStatement(sql)) {
             stmt.setString(1, ticket.getName());
             stmt.setString(2, ticket.getDestination());
