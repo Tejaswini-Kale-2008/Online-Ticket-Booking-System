@@ -1,8 +1,6 @@
 package ticketbooking;
 
-import com.ticket.model.Ticket;
-import com.ticket.service.BookingService;
-
+import java.sql.*;
 import java.util.*;
 
 public class Mainapp {
