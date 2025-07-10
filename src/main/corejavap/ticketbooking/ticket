@@ -21,3 +21,4 @@ public class Ticket {
         return "Ticket{name='" + name + "', destination='" + destination + "', price=" + price + "}";
     }
 }
+
