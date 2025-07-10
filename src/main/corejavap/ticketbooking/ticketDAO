@@ -1,7 +1,6 @@
 package ticket.dao;
-
-
 import java.sql.*;
+
 public class TicketDAO {
     public void saveTicket(Ticket ticket) {
         String sql = "INSERT INTO tickets (name, destination, price) VALUES (?, ?, ?)";
