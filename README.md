@@ -43,3 +43,22 @@ CREATE TABLE tickets (
     destination VARCHAR(100),
     price DOUBLE PRECISION
 );
+
+ * OUTPUT *
+
+<img width="460" height="328" alt="image" src="https://github.com/user-attachments/assets/93362b0e-a206-4cac-b8c0-28cd21c8c41c" />
+
+
+
+
+
+
+
+🌟 Contact
+
+
+- Your Name: Tejaswini Sudhakar Kale
+
+- Email: kaletejaswini36@gmail.com
+
+- GitHub: Tejaswini-Kale-2008
