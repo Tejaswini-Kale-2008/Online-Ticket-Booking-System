@@ -1,7 +1,7 @@
 package ticketbooking;
 
-import ticketbooking.ticket;
-import ticketbooking.bookingservice;
+import ticketbooking.Ticket;
+import ticketbooking.BookingService;
 import java.util.*;
 
 public class Mainapp {
