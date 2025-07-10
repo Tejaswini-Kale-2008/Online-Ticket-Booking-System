@@ -1,4 +1,4 @@
-package ticket.dao;
+package ticketbooking.dao;
 import java.sql.*;
 
 public class TicketDAO {
