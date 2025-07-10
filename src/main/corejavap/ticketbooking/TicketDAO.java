@@ -1,7 +1,7 @@
 package ticketbooking.dao;
 import java.sql.*;
 import java.ticketbooking.Ticket;
-import ticketbooking.DataBaseConnection;
+import ticketbooking.DatabaseConnection;
 
 public class TicketDAO {
     public void saveTicket(Ticket ticket) {
