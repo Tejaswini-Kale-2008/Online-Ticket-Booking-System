@@ -1,7 +1,7 @@
 package ticketbooking;
 import java.io.*;
-import ticketbooking.ticket;
-import ticketbooking.ticketDAO;
+import ticketbooking.Ticket;
+import ticketbooking.TicketDAO;
 
 public class BookingService implements Runnable {
     private Ticket ticket;
