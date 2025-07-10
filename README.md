@@ -36,7 +36,9 @@ OOPS concepts
     <version>42.6.0</version>
 </dependency>
 
- 🗃️ Database Setup (PostgreSQL)
+
+
+🗃️ Database Setup (PostgreSQL)
 
 1. Open your PostgreSQL terminal or pgAdmin  
 2. Create database and table:
