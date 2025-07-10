@@ -30,11 +30,14 @@ OOPS concepts
 
 
 🌟 Dependencies
-<dependency>
-    <groupId>org.postgresql</groupId>
-    <artifactId>postgresql</artifactId>
-    <version>42.6.0</version>
-</dependency>
+<dependencies>
+    <dependency>
+        <groupId>org.postgresql</groupId>
+        <artifactId>postgresql</artifactId>
+        <version>42.6.0</version>
+    </dependency>
+</dependencies>
+
 
 
 
