@@ -11,6 +11,22 @@ Multithreading is used to simulate concurrent ticket bookings.
 - Maven  
 - PostgreSQL installed and running  
 
+🛠 Technologies Used
+
+Java (Core Java)
+JDBC
+PostgreSQL
+Maven
+File I/O
+Multithreading
+
+🌟 Features
+
+Console-based interactive menu
+Book tickets (Name, Destination, Price)
+Save bookings to PostgreSQL DB and tickets.txt
+Multithreading for handling each booking
+OOPS concepts
 
 
  🗃️ Database Setup (PostgreSQL)
