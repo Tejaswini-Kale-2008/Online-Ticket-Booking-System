@@ -4,6 +4,7 @@
     <artifactId>TicketBookingSystem</artifactId>
     <version>1.0</version>
     <dependencies>
+        <!-- PostgreSQL JDBC driver -->
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
