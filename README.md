@@ -35,8 +35,6 @@ Multithreading is used to simulate concurrent ticket bookings.
 2. Create database and table:
 
 
-CREATE DATABASE ticketdb;
-
 CREATE TABLE tickets (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100),
