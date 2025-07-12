@@ -2,12 +2,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ticket</groupId>
     <artifactId>TicketBookingSystem</artifactId>
-    <version>1.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
-            <version>42.7.2</version>
+            <version>42.6.0</version>
         </dependency>
     </dependencies>
 </project>
