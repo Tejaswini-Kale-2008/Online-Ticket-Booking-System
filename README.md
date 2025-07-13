@@ -44,8 +44,7 @@ CREATE TABLE tickets (
 
  * OUTPUT *
 
-<img width="460" height="268" alt="image" src="https://github.com/user-attachments/assets/58694929-de30-4b2c-b3fb-322266a09632" />
-
+<img width="816" height="548" alt="image" src="https://github.com/user-attachments/assets/1d2c19f3-bbff-4b25-bc61-874337a43676" />
 
 
 
