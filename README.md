@@ -43,8 +43,8 @@ CREATE TABLE tickets (
 );
 
  * OUTPUT *
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/c87ababc-00f9-4b73-8c51-d82a5cff3b02" />
 
-![Uploading image.png…]()
 
 
 
