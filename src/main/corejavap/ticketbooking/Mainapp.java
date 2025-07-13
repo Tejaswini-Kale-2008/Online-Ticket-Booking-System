@@ -10,7 +10,7 @@ public class Mainapp {
         boolean running = true;
 
         while (running) {
-            System.out.println("\n=== Onlne Ticket Booking ===");
+            System.out.println("\n=== Online Ticket Booking ===");
             System.out.println("1. Book Ticket");
             System.out.println("2. Exit");
             System.out.print("Choose option: ");
