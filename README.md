@@ -7,7 +7,7 @@ Multithreading is used to simulate concurrent ticket bookings.
 
  ✅ Prerequisites
 
-- Any Java IDE (e.g., IntelliJ, VS Code, Eclipse). 
+- Java IDE (e.g., IntelliJ, VS Code, Eclipse). 
 - Maven  
 - PostgreSQL installed and running  
 
